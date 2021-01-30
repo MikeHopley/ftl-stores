@@ -1,10 +1,12 @@
-# Method
+# FTL store statistics
+
+## Method
 
 I visited 100 stores for each ship tested (buying nothing).
 
 This was tedious and I went fast, so doubtless I made a few errors recording data (but not many).
 
-# Number of store slots
+## Number of store slots
 
 A "slot" is a container for items, such as weapons. For example, with Kestrel A, 27% of stores had 2 slots (i.e. a one-page store).
 
@@ -14,7 +16,7 @@ A "slot" is a container for items, such as weapons. For example, with Kestrel A,
 | 3               | 29        | 31     | 29     | 24       |
 | 4               | 44        | 32     | 27     | 41       |
 
-# Categories
+## Categories
 
 For example, with Kestrel A, 83% of stores sold systems.
 
@@ -26,7 +28,7 @@ For example, with Kestrel A, 83% of stores sold systems.
 | Crew     | 63        | 56     | 51     | 59       |
 | Augments | 50        | 53     | 43     | 60       |
 
-# Systems
+## Systems
 
 For example, with Kestrel A, 60% of stores sold Drone Control.
 
