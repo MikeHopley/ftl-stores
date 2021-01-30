@@ -1,4 +1,8 @@
-I visited 100 stores for each ship tested (buying nothing). This was tedious and I went fast, so doubtless I made a few errors recording data (but not many).
+# Method
+
+I visited 100 stores for each ship tested (buying nothing).
+
+This was tedious and I went fast, so doubtless I made a few errors recording data (but not many).
 
 # Number of store slots
 
