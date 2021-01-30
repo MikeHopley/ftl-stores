@@ -6,7 +6,7 @@ This was tedious and I went fast, so doubtless I made a few errors recording dat
 
 # Number of store slots
 
-A "slot" is a category of items, such as weapons. For example, with Kestrel A, 27% of stores had 2 slots (i.e. a one-page store).
+A "slot" is a container for items, such as weapons. For example, with Kestrel A, 27% of stores had 2 slots (i.e. a one-page store).
 
 | Number of slots | Kestrel A | Engi A | Engi B | Mantis A |
 | --------------- | --------- | ------ | ------ | -------- |
