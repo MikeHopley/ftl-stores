@@ -9,7 +9,7 @@ This was tedious and I went fast, so doubtless I made a few errors recording dat
 A "slot" is a container for items, such as weapons. For example, with Kestrel A, 27% of stores had 2 slots (i.e. a one-page store).
 
 | Number of slots | Kestrel A | Engi A | Engi B | Mantis A |
-| --------------- | --------- | ------ | ------ | -------- |
+| :-------------: | :-------: | :----: | :----: | :------: |
 | 2               | 27        | 37     | 44     | 35       |
 | 3               | 29        | 31     | 29     | 24       |
 | 4               | 44        | 32     | 27     | 41       |
@@ -19,7 +19,7 @@ A "slot" is a container for items, such as weapons. For example, with Kestrel A,
 For example, with Kestrel A, 83% of stores sold systems.
 
 | Category | Kestrel A | Engi A | Engi B | Mantis A |
-| -------- | --------- | ------ | ------ | -------- |
+| -------- | :-------: | :----: | :----: | :------: |
 | Systems  | 83        | 75     | 76     | 88       |
 | Weapons  | 66        | 57     | 54     | 61       |
 | Drones   | 44        | 58     | 52     | 47       |
@@ -31,7 +31,7 @@ For example, with Kestrel A, 83% of stores sold systems.
 For example, with Kestrel A, 60% of stores sold Drone Control.
 
 | System        | Kestrel A | Engi A | Engi B | Mantis A |
-| ------------- | --------- | ------ | ------ | -------- |
+| :-----------: | :-------: | :----: | :----: | :------: |
 | Drone Control | 60        | 0      | 0      | 63       |
 | Hacking       | 26        | 37     | 22     | 25       |
 | Cloaking      | 27        | 41     | 50     | 43       |
