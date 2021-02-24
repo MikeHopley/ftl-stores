@@ -1,3 +1,5 @@
+[Mike's FTL stuff](https://mikehopley.github.io/Mikes-FTL-stuff/) > Store statistics
+
 # FTL store statistics
 
 ## Method
